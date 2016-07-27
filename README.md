@@ -20,6 +20,7 @@ Your bleary-eyed, caffeine fueled trainers for today will be:
 ### Talk to Us! :comment:
 
 [![Join the chat at https://gitter.im/githubteacher/developers-july-AM](https://badges.gitter.im/githubteacher/developers-july-AM.svg)](https://gitter.im/githubteacher/developers-july-AM?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- If you are with Allstate, please go here instead: https://gitter.im/githubteacher/developers-july-AM-allstate
 
 - We have trainers at the ready to answer your questions in Gitter. Sign in with your GitHub account!
 
